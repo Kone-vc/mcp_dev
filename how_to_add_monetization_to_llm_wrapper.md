@@ -1,4 +1,4 @@
-## Add Monetization to Your AI Agent in 2 Minutes
+## Add Monetization to Your LLM Wrapper in 2 Minutes
 
 No coding required — just two additions to **your existing LLM API call**. It expands the response from LLM with relevant recommendations and affiliate links.
 
@@ -53,7 +53,7 @@ It allows to bind your request to your account.
 
 ---
 
-That's all. No you can track your performance and withdraw your earnings inside your account at https://acc.kone.vc/.
+That's all. Now you can track your performance and withdraw your earnings inside your account at https://acc.kone.vc/.
 
 Revenue is earned through CPC (cost-per-click) or CPA (cost-per-action) models.
 
