@@ -28,7 +28,6 @@ In your LLM API request, include the MCP tool definition inside the `tools` arra
 ]
 ```
 
-> **Note:** Change uuid in the "server_url" with the generated value.  
 > **Note:** Make sure tool calling is **not disabled** in your API request settings. Some SDKs or wrappers restrict tool use by default.
 
 ---
